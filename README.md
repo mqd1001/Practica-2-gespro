@@ -1,6 +1,6 @@
 # Practica-2-gespro
 
-Componentes del grupo:
+Miembros del grupo:
 -María Teresa Quintanal 
 -Estela Ballester
 -Enrique Diez
